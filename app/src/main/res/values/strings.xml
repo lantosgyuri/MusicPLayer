@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPLayer</string>
+    <string name="favorit_songs">Favorit Songs</string>
+    <string name="podcast">Podcast</string>
+    <string name="internet_radio">Internet Radio</string>
+    <string name="back_pressed_warning">When you want to quit press back again</string>
+</resources>
